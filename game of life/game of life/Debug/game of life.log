@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\justin\documents\visual studio 2017\projects\game of life\game of life\main.cpp(58): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\justin\documents\visual studio 2017\projects\game of life\game of life\main.cpp(33): warning C4101: 'check': unreferenced local variable
+c:\users\justin\documents\visual studio 2017\projects\game of life\game of life\main.cpp(37): warning C4101: 'partner': unreferenced local variable
+  game of life.vcxproj -> C:\Users\Justin\documents\visual studio 2017\Projects\game of life\Debug\game of life.exe
+  game of life.vcxproj -> C:\Users\Justin\documents\visual studio 2017\Projects\game of life\Debug\game of life.pdb (Partial PDB)
